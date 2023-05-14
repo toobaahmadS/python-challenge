@@ -28,4 +28,4 @@ The changes in "Profit/Losses" over the entire period, and then the average of t
 The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
-![Screenshot](./images/analysisScreenShot)
+![Screenshot](./images/analysisScreenShot.png)
