@@ -39,4 +39,4 @@ The total number of votes each candidate won
 The winner of the election based on popular vote
 
 ![Screenshot](./images/analysisScreenShot.png)
-![Screenshot](./imagespypoll/analysisScreenShot.png)
+![Screenshot](./imagespypoll/analysisScreenShot_pypoll.png)
